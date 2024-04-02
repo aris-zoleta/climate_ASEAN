@@ -1,4 +1,4 @@
-﻿year,country ,Gross Production Index Number (2014-2016 = 100),Gross Domestic Product in MM LCU ,Gross Fixed Capital Formation in MM LCU ,"Share of employment in agriculture, forestry and fishing  % ",Agricultural land in 100ha 
+﻿year,country ,prod,gdp,capital,labor,land
 1991,bgd,43.93," 1,100,327.29 ","160,041.81",64,10320
 1992,bgd,44.42," 1,195,420.00 ","206,869.00",63.9,9549
 1993,bgd,44.27," 1,253,700.00 ","224,998.00",63.7,9446
