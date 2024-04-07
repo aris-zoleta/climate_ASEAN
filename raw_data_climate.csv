@@ -1,4 +1,4 @@
-﻿cross_id,year,prod ,food ,labor,land ,ctry_temp ,prec,glob_temp1,CO2
+﻿cross_id,date_id,prod ,food ,labor,land ,ctry_temp ,prec,glob_temp1,CO2
 brn,1991,20.54,20.28,2,13,30.83,2581.59,0.4,12.54168828
 brn,1992,27.19,26.98,1.9,13,30.88,2456.84,0.22,12.92427257
 brn,1993,27.81,27.61,1.9,13,30.75,2642.56,0.23,13.79670054
